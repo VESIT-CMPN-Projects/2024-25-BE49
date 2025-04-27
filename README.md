@@ -1,4 +1,4 @@
-SilentCue - Real-Time Sign Language Translator for Deaf and Non-Verbal Individuals
+**SilentCue - Real-Time Sign Language Translator for Deaf and Non-Verbal Individuals**
 SilentCue is an AI-driven application designed to bridge the communication gap for deaf and non-verbal individuals. It enables real-time American Sign Language (ASL) gesture recognition using computer vision and machine learning, allowing users to form letters, words, and sentences seamlessly. The system also offers gesture training, dynamic word suggestions, system control, and video call integration, enhancing communication and accessibility.
 
 Features
